@@ -1,0 +1,2 @@
+# networkwalks-B084-week2-Cybersecurity-Project-Module1---Footp-with-Multiple-tools-v1
+Performed domain reconnaissance using Kali Linux tools (WHOIS, WhatWeb, Nslookup, cURL, Wafw00f, and DNSRecon) to gather domain registration details, identify web technologies, resolve IP addresses, analyze HTTP headers, detect WAF protection, and enumerate DNS records.    Add the reconnaissance outcomeMake the bullet more concise
